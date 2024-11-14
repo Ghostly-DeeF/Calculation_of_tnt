@@ -1,0 +1,6 @@
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.vcxproj.AssemblyReference.cache
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.MainForm.resources
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.vcxproj.GenerateResource.cache
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.Wood1.resources
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.HelloPanel.resources
+C:\Users\Jumbo\Documents\VS Projects\IZNT\IZNT\x64\Debug\IZNT.Balk1.resources
